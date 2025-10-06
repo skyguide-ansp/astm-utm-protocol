@@ -1206,7 +1206,7 @@ components:
             If this constraint is an ED-318 compliant geo zone, the original
             ED-318 UAS GeoZone GeoJSON Feature
           anyOf:
-          - $ref: 'https://raw.githubusercontent.com/UASGeoZones/ED-318/refs/heads/main/schema/Schema_GeoZones.json#/properties/features/items'
+          - $ref: 'https://raw.githubusercontent.com/UASGeoZones/ED-318/f41a6c21f3ffb0de6d02c4a4078e7e7285565a83/schema/Schema_GeoZones.json#/properties/features/items'
     Constraint:
       description: Full specification of a UTM constraint.
       required:
