@@ -904,8 +904,6 @@ components:
       - manager
       - uss_availability
       - version
-      - time_start
-      - time_end
       - uss_base_url
       type: object
       properties:
